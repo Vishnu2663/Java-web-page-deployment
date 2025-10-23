@@ -217,5 +217,13 @@
 
 ##### **28. Now the code will be pulled to remote repo and changes made will be shown/visible**
 
+##### **29. Shortcut link for Maven installation (instead of installing step by step use this to install directly)**
+
+          bash <(curl -sL https://tinyurl.com/4yew7tk6)
+
+ ##### **30. Shortcut link for Tomcat installation (instead of installing step by step use this to install directly)**
+
+         bash <(curl -sL https://tinyurl.com/yar6yc2u)
+
 
 
