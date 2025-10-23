@@ -219,11 +219,11 @@
 
 ##### **29. Shortcut link for Maven installation (instead of installing step by step use this to install directly)**
 
-          bash <(curl -sL https://tinyurl.com/4yew7tk6)
+         bash <(curl -sL https://tinyurl.com/52ykfnu5)
 
  ##### **30. Shortcut link for Tomcat installation (instead of installing step by step use this to install directly)**
 
-         bash <(curl -sL https://tinyurl.com/yar6yc2u)
+         bash <(curl -sL https://tinyurl.com/mrhvupt9)
 
 
 
