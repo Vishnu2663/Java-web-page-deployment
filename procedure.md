@@ -87,16 +87,11 @@
 
 ###### **(after this command click i and under the rollback add this command)**
 
-###### **# <role rolename="manager-gui"/>**
-
-###### **<role rolename="manager-script"/>**
-
-###### **<role rolename="manager-jmx"/>**
-
-###### **<role rolename="manager-status"/>**
-
-###### **<user username="admin" password="admin" roles="manager-gui, manager-script, manager-jmx, manager-status"/>**
-
+**# <role rolename="manager-gui"/>
+ <role rolename="manager-script"/>
+ <role rolename="manager-jmx"/>
+ <role rolename="manager-status"/>
+ <user username="admin" password="admin" roles="manager-gui, manager-script, manager-jmx, manager-status"/>**
 
 
 ##### **15. To configure webapps** 
@@ -115,7 +110,7 @@
 
 ##### **17. Go inside the repository or inside the project**
 
-###### **# cd "repository name"**
+###### **# cd "repository name/"**
 
 
 
@@ -145,7 +140,7 @@
 
 ##### **22. After that go inside the repo or project**
 
-###### **# cd "repo name"**
+###### **# cd "repo name/"**
 
 
 
