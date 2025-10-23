@@ -13,7 +13,7 @@
    
 2. ##### **Second create a folder and create maven project using the commands by providing project name.**
 
-######  **# mvn archetype:generate**             (this command is used to initialize to build the maven project)
+######  **# mvn archetype:generate**                               (this command is used to initialize to build the maven project)
 
  ###### **After using the command choose web project by choosing the particular number (EX:2292) and provide all the details according to project.**
 
@@ -76,9 +76,9 @@
 
 
 ##### **13. Check the files or sub files**
-
-###### **# ls
-         # cd    (use this command after ls)**
+######   
+         # ls
+         # cd    (use this command after ls in order come outside the sub files)
 
 
 
