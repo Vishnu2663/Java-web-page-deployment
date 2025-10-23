@@ -124,7 +124,7 @@
 ##### **17. Go inside the repository or inside the project**
 
 ###### 
-          cd "repository name/"
+          cd "repository name"/
 
 
 
@@ -159,7 +159,7 @@
 ##### **22. After that go inside the repo or project**
 
 ###### 
-          cd "repo name/"
+          cd "repo name"/
 
 
 
