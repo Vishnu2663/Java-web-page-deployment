@@ -87,7 +87,8 @@
 
 ###### **(after this command click i and under the rollback add this command)**
 
-###### **# <role rolename="manager-gui"/>
+###### **#
+           <role rolename="manager-gui"/>
            <role rolename="manager-script"/>
            <role rolename="manager-jmx"/>
            <role rolename="manager-status"/>
