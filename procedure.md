@@ -2,9 +2,6 @@
 
 
 
-#### **(Note: "#" refers to commands do not copy "#")**
-
-
 
 
 
