@@ -15,7 +15,7 @@
 
 ######  **# mvn archetype:generate**             (this command is used to initialize to build the maven project)
 
-* ###### **After using the command choose web project by choosing the particular number (EX:2292) and provide all the details according to project.**
+ ###### **After using the command choose web project by choosing the particular number (EX:2292) and provide all the details according to project.**
 
 
 
@@ -77,7 +77,8 @@
 
 ##### **13. Check the files or sub files**
 
-###### **# ls**
+###### **# ls
+         # cd    (use this command after ls)**
 
 
 
