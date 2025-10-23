@@ -180,7 +180,7 @@
 ##### **25. Copy the files using**
 
 ###### 
-         cp "repo name"/target/"repo file.war" apache-tomcat-9.0.111/webapps/
+         cp "repo name"/target/"repo file".war apache-tomcat-9.0.111/webapps/
 
 
 
@@ -207,7 +207,7 @@
 
 ######    (copy the files again)
 
-          cp "repo name"/target/"repo file.war" apache-tomcat-9.0.111/webapps/         
+          cp "repo name"/target/"repo file".war apache-tomcat-9.0.111/webapps/         
 
 ######     (start the server again)
 
