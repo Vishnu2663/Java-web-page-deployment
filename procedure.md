@@ -13,8 +13,8 @@
    
 2. ##### **Second create a folder and create maven project using the commands by providing project name.**
 
-######  
-           mvn archetype:generate                               (this command is used to initialize to build the maven project)
+######    (this command is used to initialize to build the maven project)
+           mvn archetype:generate                               
 
  ###### **After using the command choose web project by choosing the particular number (EX:2292) and provide all the details according to project.**
 
@@ -86,7 +86,10 @@
 ##### **13. Check the files or sub files**
 ######   
           ls
-          cd    (use this command after ls in order come outside the sub files)
+          
+(use this command after ls in order come outside the sub files)
+
+          cd    
 
 
 
@@ -193,20 +196,25 @@
 
 ##### **27. If any changes is made then you have to pull the code so make changes and push the code in VS code after that use this commands one by one **
 
-###### 
-          cd "repo name"/                                                              (use this to get inside the repo or project)**
+######    (use this to get inside the repo or project)
 
-###### 
-          git pull origin main                                                         (to pull the code to remote repo)**
+          cd "repo name"/    
+          
+######    (to pull the code to remote repo)
 
-###### 
-          mvn clean package                                                            (again use this command to build the package)**
+          git pull origin main                                                         
 
-###### 
-          cp "repo name"/target/"repo file.war" apache-tomcat-9.0.111/webapps/         (copy the files again)**
+######    (again use this command to build the package)
 
-###### 
-          sh apache-tomcat-9.0.111/bin/startup.sh                                      (start the server again)**
+          mvn clean package                                                            
+
+######    (copy the files again)
+
+          cp "repo name"/target/"repo file.war" apache-tomcat-9.0.111/webapps/         
+
+######     (start the server again)
+
+          sh apache-tomcat-9.0.111/bin/startup.sh                                     
 
 
 
